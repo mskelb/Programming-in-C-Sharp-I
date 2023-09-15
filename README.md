@@ -1,2 +1,2 @@
 # Programming in C#
-Assignments for the course Programming in C# DA204E at Malmö University 
+Assignments for the course Programming in C# at Malmö University 
