@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CAA4247E-3160-49CE-A72A-95242BF5686F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.KidsFair PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KidsFair/Album.cs">
+    <Files>
+      <File FileName="KidsFair/Program.cs" />
+      <File FileName="KidsFair/Album.cs" Line="1" Column="1" />
+      <File FileName="KidsFair/Pet.cs" />
+      <File FileName="KidsFair/TicketSeller.cs" Line="22" Column="14" />
+      <File FileName="TellTheTime/Program.cs" />
+      <File FileName="TellTheTime/DaysOnEarth.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KidsFair" expanded="True">
+            <Node name="KidsFair" expanded="True">
+              <Node name="Album.cs" selected="True" />
+            </Node>
+            <Node name="Time" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Time PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

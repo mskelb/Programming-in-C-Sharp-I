@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3FBF5B60-B2C3-48CC-B993-7BF68422CF0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.KidsFair PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Album.cs">
+    <Files>
+      <File FileName="Album.cs" Line="1" Column="1" />
+      <File FileName="Pet.cs" />
+      <File FileName="TicketSeller.cs" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KidsFair" expanded="True">
+            <Node name="KidsFair" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Album.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
