@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan\\source\\repos\\Assignment3\\Assignment3\\BMI Calculator.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\GitHub\\Programming-in-C-\\Assignment 3\\BMI Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan\\source\\repos\\Assignment3\\Assignment3\\BMI Calculator.csproj": {
+    "\\\\Mac\\Home\\Desktop\\GitHub\\Programming-in-C-\\Assignment 3\\BMI Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan\\source\\repos\\Assignment3\\Assignment3\\BMI Calculator.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\GitHub\\Programming-in-C-\\Assignment 3\\BMI Calculator.csproj",
         "projectName": "BMI Calculator",
-        "projectPath": "C:\\Users\\stefan\\source\\repos\\Assignment3\\Assignment3\\BMI Calculator.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\GitHub\\Programming-in-C-\\Assignment 3\\BMI Calculator.csproj",
         "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan\\source\\repos\\Assignment3\\Assignment3\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\GitHub\\Programming-in-C-\\Assignment 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

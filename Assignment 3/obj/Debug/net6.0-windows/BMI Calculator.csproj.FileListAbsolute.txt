@@ -15,3 +15,20 @@ C:\Users\stefan\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\re
 C:\Users\stefan\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\BMI Calculator.pdb
 C:\Users\stefan\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\BMI Calculator.genruntimeconfig.cache
 C:\Users\stefan\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\ref\BMI Calculator.dll
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\bin\Debug\net6.0-windows\BMI Calculator.exe
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\bin\Debug\net6.0-windows\BMI Calculator.deps.json
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\bin\Debug\net6.0-windows\BMI Calculator.runtimeconfig.json
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\bin\Debug\net6.0-windows\BMI Calculator.dll
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\bin\Debug\net6.0-windows\BMI Calculator.pdb
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\Assignment3.MainForm.resources
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI_Calculator.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfo.cs
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.dll
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\refint\BMI Calculator.dll
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.pdb
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\BMI Calculator.genruntimeconfig.cache
+\\Mac\Home\Desktop\GitHub\Programming-in-C-\Assignment 3\obj\Debug\net6.0-windows\ref\BMI Calculator.dll
