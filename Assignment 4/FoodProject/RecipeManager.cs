@@ -42,9 +42,7 @@ namespace FoodProject
         }
         internal void DeleteStoredRecipe(int indexToRemove)
         {
-            // Delete stored recipe 
-            MessageBox.Show("Index to remove " + indexToRemove);
-            MessageBox.Show("Number of recipes before removing is " + recipes.Length);
+
             if (indexToRemove >= 0 && indexToRemove <= maxIndex)
             {
                 // Check if the index is within the bounds of the array
@@ -61,7 +59,6 @@ namespace FoodProject
                     currentIndex--; 
                 }
             }
-            MessageBox.Show("Number of recipes after removing is " + recipes.Length);
         }
         public Recipe GetStoredRecipe(int index) 
         {

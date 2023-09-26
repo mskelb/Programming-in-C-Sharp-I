@@ -119,7 +119,7 @@
             labelWeight.Name = "labelWeight";
             labelWeight.Size = new Size(86, 20);
             labelWeight.TabIndex = 7;
-            labelWeight.Text = "Weight (kg)";
+            labelWeight.Text = "Weight (Ibs)";
             // 
             // labelHeight
             // 
@@ -128,7 +128,7 @@
             labelHeight.Name = "labelHeight";
             labelHeight.Size = new Size(88, 20);
             labelHeight.TabIndex = 6;
-            labelHeight.Text = "Height (cm)";
+            labelHeight.Text = "Height (ft and in)";
             // 
             // labelName
             // 

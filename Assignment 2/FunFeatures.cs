@@ -13,7 +13,6 @@ namespace Assignment_2
 
         public void Start()
 		{
-			//Introduce();
             bool repeat = false;
             Console.Write("\n\n****** FORTUNE TELLER ******");
             do
@@ -35,12 +34,10 @@ namespace Assignment_2
         private bool RunAgain()
         {
             Console.WriteLine("\nContinue with another round? (yes/no)");
-            string answer = Console.ReadLine();
+            string answer = Console.ReadLine().ToLower();
             switch (answer)
             {
-                case "Y":
                 case "y":
-                case "Yes":
                 case "yes":
                     return true; 
                     break;

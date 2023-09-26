@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainForm.cs">
+    <Files>
+      <File FileName="UnitTypes.cs" Line="7" Column="20" />
+      <File FileName="SavingCalculator.cs" Line="1" Column="1" />
+      <File FileName="MainForm.Designer.cs" Line="1" Column="1" />
+      <File FileName="MainForm.resx" Line="1" Column="1" />
+      <File FileName="MainForm.cs" Line="223" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMI Calculator" expanded="True">
+            <Node name="BMI Calculator" expanded="True">
+              <Node name="MainForm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+</Properties>

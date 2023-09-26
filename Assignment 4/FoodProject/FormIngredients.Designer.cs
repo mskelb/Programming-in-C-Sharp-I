@@ -64,7 +64,6 @@
             listBoxIngredients.Name = "listBoxIngredients";
             listBoxIngredients.Size = new Size(367, 304);
             listBoxIngredients.TabIndex = 7;
-            listBoxIngredients.SelectedIndexChanged += listBoxIngredients_SelectedIndexChanged;
             // 
             // buttonAddIngredient
             // 
@@ -102,7 +101,6 @@
             textBoxIngredientText.Name = "textBoxIngredientText";
             textBoxIngredientText.Size = new Size(367, 27);
             textBoxIngredientText.TabIndex = 2;
-            textBoxIngredientText.TextChanged += textBoxIngredientText_TextChanged;
             // 
             // buttonOKIngredient
             // 

@@ -58,7 +58,6 @@ namespace FoodProject
             label1.Size = new Size(112, 20);
             label1.TabIndex = 0;
             label1.Text = "Name of recipe";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -78,7 +77,6 @@ namespace FoodProject
             comboBoxChooseCategory.Name = "comboBoxChooseCategory";
             comboBoxChooseCategory.Size = new Size(246, 28);
             comboBoxChooseCategory.TabIndex = 2;
-            comboBoxChooseCategory.SelectedIndexChanged += comboBoxChooseCategory_SelectedIndexChanged;
             // 
             // buttonAddIngredients
             // 
@@ -128,7 +126,6 @@ namespace FoodProject
             textBoxWriteRecipe.Name = "textBoxWriteRecipe";
             textBoxWriteRecipe.Size = new Size(479, 247);
             textBoxWriteRecipe.TabIndex = 5;
-            textBoxWriteRecipe.TextChanged += textBoxWriteRecipe_TextChanged;
             // 
             // textBoxAddRecipe
             // 
@@ -138,7 +135,6 @@ namespace FoodProject
             textBoxAddRecipe.Size = new Size(339, 27);
             textBoxAddRecipe.TabIndex = 4;
             textBoxAddRecipe.Text = " ";
-            textBoxAddRecipe.TextChanged += textBoxAddRecipe_TextChanged;
             // 
             // labelStoredName
             // 
@@ -168,7 +164,6 @@ namespace FoodProject
             labelStoredcat.Size = new Size(69, 20);
             labelStoredcat.TabIndex = 8;
             labelStoredcat.Text = "Category";
-            labelStoredcat.Click += label5_Click;
             // 
             // buttonEdit
             // 
@@ -212,7 +207,6 @@ namespace FoodProject
             labelDoubleClick.Size = new Size(347, 20);
             labelDoubleClick.TabIndex = 13;
             labelDoubleClick.Text = "Double click or click ’Show’ for cooking instructions";
-            labelDoubleClick.Click += label3_Click;
             // 
             // listBoxRecipeStored
             // 
@@ -223,7 +217,6 @@ namespace FoodProject
             listBoxRecipeStored.Name = "listBoxRecipeStored";
             listBoxRecipeStored.Size = new Size(471, 324);
             listBoxRecipeStored.TabIndex = 5;
-            listBoxRecipeStored.SelectedIndexChanged += listBoxRecipeStored_SelectedIndexChanged;
             listBoxRecipeStored.DoubleClick += buttonShow_Click;
             // 
             // button1

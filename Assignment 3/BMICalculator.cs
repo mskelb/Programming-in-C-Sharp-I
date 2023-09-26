@@ -25,7 +25,6 @@ namespace BMI_Calculator
             unit = UnitTypes.Metric;
         }
         #region Getters and Setters 
-        // setters and getters 
         public double GetHeight()
         {
             return height;
@@ -53,8 +52,7 @@ namespace BMI_Calculator
             this.unit = type;
         }
         #endregion
-        //Calculation 
-   
+
         public string WeightCategory()
         {
             double bmi = CalculateBMI();

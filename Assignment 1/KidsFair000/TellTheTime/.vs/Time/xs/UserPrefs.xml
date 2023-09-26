@@ -6,7 +6,6 @@
     <Files>
       <File FileName="DaysOnEarth.cs" Line="3" Column="15" />
       <File FileName="Program.cs" />
-      <File FileName="../KidsFair/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,15 +15,15 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="DaysOnEarth.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Time PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

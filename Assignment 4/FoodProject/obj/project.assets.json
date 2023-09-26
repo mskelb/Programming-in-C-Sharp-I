@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\stefan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\stefan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefan\\source\\repos\\FoodProject\\FoodProject\\FoodProject.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Programmering i C#\\Assignment 4\\FoodProject\\FoodProject.csproj",
       "projectName": "FoodProject",
-      "projectPath": "C:\\Users\\stefan\\source\\repos\\FoodProject\\FoodProject\\FoodProject.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\Programmering i C#\\Assignment 4\\FoodProject\\FoodProject.csproj",
       "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefan\\source\\repos\\FoodProject\\FoodProject\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\Programmering i C#\\Assignment 4\\FoodProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

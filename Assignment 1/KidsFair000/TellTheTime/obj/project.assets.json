@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/TellTheTime/Time.csproj",
+      "projectUniqueName": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair000/TellTheTime/Time.csproj",
       "projectName": "Time",
-      "projectPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/TellTheTime/Time.csproj",
+      "projectPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair000/TellTheTime/Time.csproj",
       "packagesPath": "/Users/molly/.nuget/packages/",
-      "outputPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/TellTheTime/obj/",
+      "outputPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair000/TellTheTime/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/molly/.nuget/NuGet/NuGet.Config"

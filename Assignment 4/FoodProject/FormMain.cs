@@ -13,7 +13,7 @@ namespace FoodProject
         RecipeManager recipeManager;
         int maxNumOfRecipes = 2;
         Recipe currRecipe;
-        String stdDetails = "{0, -50}{1,-50}{2, -50}";
+        String stdDetails = "{0, -40}{1,-40}{2, -40}";
 #pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public FormMain()
 #pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
@@ -27,7 +27,7 @@ namespace FoodProject
         }
         private void InitializeComponentGUI()
         {
-            string name = "hej";
+            this.CenterToScreen();
         }
         #region ADDING A RECIPE
         private void buttonAddRecipe_Click(object sender, EventArgs e)
@@ -155,38 +155,5 @@ namespace FoodProject
             listBoxRecipeStored.Items.Clear();
             recipeManager = new RecipeManager(maxNumOfRecipes);
         }
-        #region UNUSED FUNCTIONS 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void textBoxAddRecipe_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBoxChooseCategory_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void listBoxRecipeStored_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBoxWriteRecipe_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-    #endregion
     }
 }

@@ -57,7 +57,6 @@ namespace FoodProject
 
         private void buttonEditIngredient_Click(object sender, EventArgs e)
         {
-            // Press Edit button to edit an existing ingredient 
             if (listBoxIngredients.SelectedIndex != -1)
             {
                 int selectedIndex = listBoxIngredients.SelectedIndex;
@@ -73,7 +72,6 @@ namespace FoodProject
         }
         private void buttonDeleteIngredient_Click(object sender, EventArgs e)
         {
-            // Press Delete button to edit an existing ingredient 
             if (listBoxIngredients.SelectedIndex != -1)
             {
                 int selectedIndex = listBoxIngredients.SelectedIndex;
@@ -82,22 +80,5 @@ namespace FoodProject
             }
         }
         #endregion
-        private void textBoxListOfIngredientsBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void listBoxIngredients_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBoxIngredientText_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -19,3 +19,24 @@ C:\Users\stefan\source\repos\FoodProject\FoodProject\obj\Debug\net6.0-windows\Fo
 C:\Users\stefan\source\repos\FoodProject\FoodProject\obj\Debug\net6.0-windows\FoodProject.EditInstructions.resources
 C:\Users\stefan\source\repos\FoodProject\FoodProject\obj\Debug\net6.0-windows\FoodProject.ShowRecipeForm.resources
 C:\Users\stefan\source\repos\FoodProject\FoodProject\obj\Debug\net6.0-windows\FoodProject.FormEditRecipe.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\bin\Debug\net6.0-windows\FoodProject.exe
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\bin\Debug\net6.0-windows\FoodProject.deps.json
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\bin\Debug\net6.0-windows\FoodProject.runtimeconfig.json
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\bin\Debug\net6.0-windows\FoodProject.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\bin\Debug\net6.0-windows\FoodProject.pdb
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.EditForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.EditInstructions.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.FormEditRecipe.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.FormIngredients.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.FormMain.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.ShowRecipeForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.AssemblyInfo.cs
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\refint\FoodProject.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.pdb
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\FoodProject.genruntimeconfig.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 4\FoodProject\obj\Debug\net6.0-windows\ref\FoodProject.dll
