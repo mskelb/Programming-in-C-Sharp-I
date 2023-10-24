@@ -1,0 +1,27 @@
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\bin\Debug\net6.0-windows\Assignment5.exe
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\bin\Debug\net6.0-windows\Assignment5.deps.json
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\bin\Debug\net6.0-windows\Assignment5.runtimeconfig.json
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\bin\Debug\net6.0-windows\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\bin\Debug\net6.0-windows\Assignment5.pdb
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.MainForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.AssemblyInfo.cs
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\refint\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.pdb
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.genruntimeconfig.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\ref\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment5\Assignment5\obj\Debug\net6.0-windows\Assignment5.ContactForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.ContactForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.MainForm.resources
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.AssemblyInfo.cs
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\refint\Assignment5.dll
+\\Mac\Home\Desktop\Programmering i C#\Assignment 5\Assignment 5\obj\Debug\net6.0-windows\Assignment5.pdb
