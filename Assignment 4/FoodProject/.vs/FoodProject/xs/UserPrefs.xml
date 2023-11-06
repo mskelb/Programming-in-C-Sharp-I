@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormMain.cs">
+    <Files>
+      <File FileName="FormMain.cs" Line="140" Column="14" />
+      <File FileName="RecipeManager.cs" Line="29" Column="70" />
+      <File FileName="FormIngredients.cs" Line="45" Column="1" />
+      <File FileName="FormIngredients.Designer.cs" Line="23" Column="9" />
+      <File FileName="FoodCategory.cs" Line="1" Column="1" />
+      <File FileName="FormEditRecipe.cs" Line="46" Column="52" />
+      <File FileName="FormEditRecipe.Designer.cs" Line="145" Column="51" />
+      <File FileName="FormMain.resx" Line="1" Column="1" />
+      <File FileName="ShowRecipeForm.cs" Line="10" Column="17" />
+      <File FileName="Recipe.cs" Line="52" Column="21" />
+      <File FileName="EditForm.cs" Line="1" Column="1" />
+      <File FileName="EditForm.Designer.cs" Line="1" Column="1" />
+      <File FileName="ShowRecipeForm.Designer.cs" Line="1" Column="1" />
+      <File FileName="FormMain.Designer.cs" Line="227" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodProject" expanded="True">
+            <Node name="FoodProject" expanded="True">
+              <Node name="FormMain.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+</Properties>
