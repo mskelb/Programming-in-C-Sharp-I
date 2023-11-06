@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/KidsFair.csproj",
+      "projectUniqueName": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/KidsFair/KidsFair.csproj",
       "projectName": "KidsFair",
-      "projectPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/KidsFair.csproj",
+      "projectPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/KidsFair/KidsFair.csproj",
       "packagesPath": "/Users/molly/.nuget/packages/",
-      "outputPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/obj/",
+      "outputPath": "/Users/molly/Desktop/Programmering i C#/Assignment 1/KidsFair/KidsFair/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/molly/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }
