@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Assignment5
 {
-    internal class customerManager
+    internal class CustomerManager
     {
         List<Customer> customers;
         int maxNumberOfCustomers; 
-        public customerManager(int value)
+        public CustomerManager(int value)
         {
             // Creating a list of customers
             customers = new List<Customer>();
