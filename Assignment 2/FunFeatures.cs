@@ -42,6 +42,7 @@ namespace Assignment_2
                     return true; 
                     break;
                 default:
+                    Console.WriteLine("Invalid answer or 'no'... will not continue.\n");
                     return false; 
                     break;
             }

@@ -57,16 +57,14 @@ namespace Assignment_2
 
         private bool ExitCalculation()
         {
-            string s = (" Do you want to exit Math Work(or do some more calculations)? (yes / no)");
+            string s = (" Do you want to exit Math Work (or do some more calculations)? (yes / no)");
             string pad = s.PadLeft(s.Length + 4, '*'); 
             Console.WriteLine("\n\n" + pad);
-            string answer = Console.ReadLine();
+            string answer = Console.ReadLine().ToLower();
 
             switch (answer)
             {
-                case "Y":
                 case "y":
-                case "Yes":
                 case "yes":
                     return false;
                     break;
