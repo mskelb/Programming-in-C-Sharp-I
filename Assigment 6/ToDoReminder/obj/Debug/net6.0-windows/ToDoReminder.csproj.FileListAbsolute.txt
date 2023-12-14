@@ -1,0 +1,17 @@
+Z:\Desktop\Programmering i C#\ToDoReminder\bin\Debug\net6.0-windows\ToDoReminder.exe
+Z:\Desktop\Programmering i C#\ToDoReminder\bin\Debug\net6.0-windows\ToDoReminder.deps.json
+Z:\Desktop\Programmering i C#\ToDoReminder\bin\Debug\net6.0-windows\ToDoReminder.runtimeconfig.json
+Z:\Desktop\Programmering i C#\ToDoReminder\bin\Debug\net6.0-windows\ToDoReminder.dll
+Z:\Desktop\Programmering i C#\ToDoReminder\bin\Debug\net6.0-windows\ToDoReminder.pdb
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.AboutBox.resources
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.MainForm.resources
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.csproj.GenerateResource.cache
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.AssemblyInfoInputs.cache
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.AssemblyInfo.cs
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.csproj.CoreCompileInputs.cache
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.dll
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\refint\ToDoReminder.dll
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.pdb
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ToDoReminder.genruntimeconfig.cache
+Z:\Desktop\Programmering i C#\ToDoReminder\obj\Debug\net6.0-windows\ref\ToDoReminder.dll
